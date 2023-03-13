@@ -1,0 +1,13 @@
+Sure, here is the privacy statement for the Flashlight application in English:
+
+Privacy Statement
+
+We, the developers of the Flashlight application, place great importance on protecting the personal information of our users. We understand that privacy is an important aspect of the interaction between users and the application. Therefore, we guarantee that no personal data will be collected or used without the user's consent.
+
+The Flashlight application does not collect, store or transmit any personal information such as name, address, email, phone number, etc. The application does not use any data collection mechanisms including cookies and similar technologies.
+
+We ensure the security and confidentiality of all user data that may be transmitted through the application. No information will be transmitted to third parties except where required by law.
+
+We recommend that all users of the Flashlight application read this privacy statement to fully understand how we handle personal data. If you have any questions or suggestions related to privacy, please contact us.
+
+Thank you.
